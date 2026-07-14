@@ -1,1 +1,1 @@
-# this is a practice for machine learning personally :)
+# this is a personal practice for machine learning 
